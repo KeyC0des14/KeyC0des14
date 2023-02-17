@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shakiyla but I go by Key for short.
-- 👀 I’m interested in ... learning Front End softwarre and understanding the system 
+- 👀 I’m interested in ... learning Front End development and understanding the system to become a successful Software Engineer.
 - 🌱 I’m currently learning ... Front-End Development
 
 - I staretd working on this journey 15 months ago. I have now successfully completed 2 bootcamps: SheCodes, & FreeCodeCamp. ( HTML, CSS, JavaScript, React,  & Web Responsive)
