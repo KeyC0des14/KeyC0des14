@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+<style>
+    h1,
+    h2,
+    h3 {
+      text-align: center;
+      font-family: Helvetica, Arial, sans-serif;
+    }
+
+    h1 {
+      color: #e7a8ea;
+      font-size: 30px;
+      line-height: 50px;
+      
+    }
+
+    h2 {
+      margin: 0;
+
+      font-size: 30px;
+      line-height: 50px;
+      font-weight: 400;
+    }
+
+    ul {
+      padding: 0;
+    }
+
+    li {
+      list-style: none;
+      text-align: center;
+      padding: 10px 0;
+      border-radius: 10px;
+      transition: all 200ms ease-in-out;
+      max-width: 400px;
+      margin: 0 auto;
+    }
+
+    li:hover {
+      background: peachpuff;
+    }
+   body{
+    background-color: lavender;
+    border-radius: 250px ;
+    border-style: double;
+    width: 380px;
+    margin: auto;
+
+    
+}
+    p {
+      font-size: 22px;
+      opacity: 0.9;
+      text-align: center;
+      font-family: monospace;
+      margin-top: 45px;
+    }
+    .name{
+        font-size: 14px;
+        margin-bottom: 25px;
+    }
+
+    button {
+      display: block;
+      margin: 35px auto;
+      border: 2px solid #1a64d6;
+      background:blanchedalmond;
+      color: #fff;
+      font-size: 18px;
+      line-height: 24px;
+      padding: 14px 28px;
+      border-radius: 30px;
+      transition: all 200ms ease;
+      box-shadow: rgba(244, 203, 101, 0.928) 0px 8px 8px 0;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background: white;
+      color: rgb(40, 147, 147);
+      border: 2px solid #98c1ff;
+    }
+  </style>
+  </head>
+
+<body>
+  <h1> 🌥
+      <br />
+      
+    Currently 30° in Southgate, MI
+</h1><br>
+    <h2>37° / <strong>49°</strong></h2>
+    <ul>
+      <li>
+        <h3>
+        ⛅ Tomorrow
+        </h3>
+        <p>31° / <strong>49°</strong></p>
+      </li>
+      <li>
+        <h3>
+        🌤 Tuesday
+        </h3>
+        <p>29° / <strong>50°</strong></p>
+      </li>
+      <li>
+        <h3>
+         💨 Wednesday
+        </h3>
+        <p>43° / <strong>63°</strong></p>
+      </li>
+    </ul>
+
+    <button>
+      Change city
+    </button>
+    <p class="name">
+      Coded by <br>Shakiyla-Ablah Price
+    </p>
+</body>
+</html>
